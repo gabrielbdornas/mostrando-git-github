@@ -1,3 +1,5 @@
 # Arquivo 2
 
 Neste arquivo colocamos o conteúdo bla bla bla 2
+
+Adicionei uma nova linha no arquivo 2
